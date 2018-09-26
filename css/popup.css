@@ -1,0 +1,32 @@
+body{
+  width:400px;
+}
+td{
+  padding:10px 5px;
+}
+img{
+  width:16px;
+  height:16px;
+}
+button{
+  padding:2px 5px;
+  border-radius: 2px;
+}
+
+a{
+  color:#3cf;
+  text-decoration: none;
+}
+
+a:hover{
+  border-bottom: 1px solid;
+}
+
+.clip{
+  width:100%;
+  margin-bottom: 10px;
+}
+
+.url{
+  width:90%;
+}
